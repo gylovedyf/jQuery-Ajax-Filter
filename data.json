@@ -1,0 +1,33 @@
+[{
+    "user_id" : "1",
+    "firstName": "Yuan",
+    "lastName": "Gao",
+    "place": "Tempe"
+},
+{
+    "user_id" : "2",
+    "firstName": "Xin",
+    "lastName": "Lee",
+    "place": "Phoenix"
+},
+ {
+    "user_id" : "3",
+    "firstName": "Dong",
+    "lastName": "Zhao",
+    "place": "NYC"
+},
+ {
+    "user_id" : "4",
+    "firstName": "Han",
+    "lastName": "Chang",
+    "place": "LA"
+},
+ {
+    "user_id" : "5",
+    "firstName": "John",
+    "lastName": "Park",
+    "place": "Beijing"
+}]
+
+
+
